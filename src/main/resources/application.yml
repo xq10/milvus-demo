@@ -1,0 +1,5 @@
+milvus:
+  host: localhost
+  port: 19530
+  collection-name: demo_collection
+  dimension: 4
