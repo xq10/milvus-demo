@@ -3,3 +3,11 @@ milvus:
   port: 19530
   collection-name: demo_collection
   dimension: 4
+
+server:
+  port: 8080
+spring:
+  ai:
+    dashscope:
+      api-key: sk-6a104ade01914ac2857721ff790f504b
+
